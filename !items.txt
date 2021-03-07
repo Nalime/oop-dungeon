@@ -1,0 +1,6 @@
+name = "Long Sword"
+weight = 10
+health = 0
+attack = 10
+defense = 0
+value = 350

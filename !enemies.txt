@@ -1,0 +1,6 @@
+name = "Zombie"
+weight = 15
+health = 50
+attack = 15
+defense = 5
+value = 200

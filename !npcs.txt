@@ -1,0 +1,5 @@
+name = "dude"
+weight = 10
+script = "bruh"
+interact = "Talk to"
+commodity = random
